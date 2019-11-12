@@ -4,4 +4,4 @@ title: Dear Data Project
 published: true
 ---
 
-Testing First Post
+![](images/Dear%20Data%20Front.jpg)
