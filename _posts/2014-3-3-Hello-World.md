@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dear Data Project
+published: true
 ---
 
-Test
+Testing First Post
