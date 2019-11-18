@@ -3,6 +3,7 @@ layout: post
 title: Tool Review: Hathi Trust Research Center
 published: true
 ---
+
 ## Tool Review: Hathi Trust Research Center
   Hathi Trust Research Center strives to make mass amounts of data accessible to researchers through a variety of digital tools. Its sources are accessible not only due to the visualizations and computational options the site provides but because it allows researchers to work with the data of texts digitized by Hathi Trust even if the full texts may not be available due to current copyright laws.  The digital tools on the site are easily customizable and can be used to fit a variety of research interests. HTRC offers detailed explanations of what each tool is meant to do, making many tools beginner-friendly. In addition to a variety of customizable input options, most tools give researchers the option of several different outputs. The downside of a site that tries to tackle such a large amount of data is its speed, which can be slow at times on regular performance machines.
 
