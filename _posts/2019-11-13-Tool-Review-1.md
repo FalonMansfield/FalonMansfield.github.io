@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tool Review: Hathi Trust Research Center
+title: Tool Review Hathi Trust Research Center
 published: true
 ---
 
