@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Webrecorder and Webrecorder Player
+title: Tool Review Webrecorder and Webrecorder Player
 published: true
 ---
 Webrecorder is an online tool that allows users to archive web materials of their choice. The website itself is easy to navigate, and it allows for simple organization of projects. Users can choose a webpage, open a browser on Webrecorder’s online platform, and record individual pages of larger websites. The ease of access and speed of use makes Webrecorder a useful tool for web archiving, as it takes little to no technical knowledge to operate and the user can archive many web pages in a short period of time. However, Webrecorder as it exists as a website is not always reliable. Several times when I have tried to visit the site it has either been unable to load or it lags during use. 
