@@ -1,3 +1,8 @@
+---
+layout: post
+title: Webrecorder and Webrecorder Player
+published: true
+---
 Webrecorder is an online tool that allows users to archive web materials of their choice. The website itself is easy to navigate, and it allows for simple organization of projects. Users can choose a webpage, open a browser on Webrecorder’s online platform, and record individual pages of larger websites. The ease of access and speed of use makes Webrecorder a useful tool for web archiving, as it takes little to no technical knowledge to operate and the user can archive many web pages in a short period of time. However, Webrecorder as it exists as a website is not always reliable. Several times when I have tried to visit the site it has either been unable to load or it lags during use. 
 
 Though the user has control over which pages they want to archive, the archiving process is not always straightforward. Websites with many pages and frequent changes would take great care and strategy to archive, because each article or link must be opened and archived independently of the larger pages of material. For example, I attempted to archive the NPR website, and while I was able to capture the general layout of the site and some of its prominent posts, the mass amounts of information held in news articles, external links, and advertisements would take hours of work to archive. Considering a site like NRP undergoes significant changes daily, a user would need to make frequent efforts to capture near-constant changes. 
