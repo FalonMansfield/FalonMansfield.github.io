@@ -3,8 +3,6 @@ layout: post
 title: Exploring Language Relationships
 published: true
 ---
-Map: <https://public.flourish.studio/visualisation/1032431/>
-<p>Network Graph: <a href="https://public.flourish.studio/visualisation/1032788/"> Test </a> </p>
 
 For my final project, I chose to use a mapping tool to show the locations of endangered, extinct, and active languages around the world. I based my project around the Endangered Language Project, which provides the location and status of languages as well as an open-sourced library of language resources. While the ELP website contains its own map, I wanted to focus my project on language families, because many endangered or extinct languages have connections to widely spoken modern languages. By analyzing language family relationships in relation to location, it is clear that many endangered languages exist in close proximity to one other that they are often pushed out of favor by the larger languages in the area, usually due to political powers. 
 
